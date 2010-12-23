@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RemoteBox
+Name[ru]=RemoteBox
+Comment=VirtualBox Remote Client
+Comment[ru]=Веб клиент для VirtualBox
+Exec=remotebox
+Terminal=false
+Icon=RemoteBox.png
+Type=Application
